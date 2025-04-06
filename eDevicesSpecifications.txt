@@ -1,0 +1,2 @@
+Name: IPhone  Price: 1500.0  DateOfManufacutring: 2023-10-10  ID: 1  OS Type: ios18  RAM Size: 4  CPU Speed: 4.5
+Name: IPhone14Pro  Price: 1800.0  DateOfManufacutring: 2022-09-16  ID: 2  OS Type: ios18  RAM Size: 5  CPU Speed: 5.5
