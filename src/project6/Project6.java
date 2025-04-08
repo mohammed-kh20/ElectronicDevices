@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.time.LocalDate;
 public class Project6 { 
     public static void main(String[] args) {
-       
+       //My Project
         Scanner sc=new Scanner(System.in);
         MainProgram mainprogram=new MainProgram();
         ArrayList<String>infoFromFile=mainprogram.readFile("C:\\Users\\LENOVO\\OneDrive - Arab American University\\سطح المكتب\\Extra\\javapro2\\eDevices.txt");
